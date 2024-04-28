@@ -1,0 +1,11 @@
+.container {
+  position: relative;
+  width: 400px;
+  height: 200px;
+}
+
+#scratchCanvas {
+  width: 100%;
+  height: 100%;
+  background-color: #ccc; /* Color of the scratch surface */
+}
